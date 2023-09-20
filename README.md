@@ -1,1 +1,1 @@
-# Analysis code for "Unveiling the Intersection of APOE Alleles, Sex, and Diet in Shaping Brain Networks in Mouse Models of Aging"
+Analysis code for extracting/visualizing robust, sparse brain networks which are predictive of traits.
